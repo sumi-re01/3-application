@@ -28,6 +28,10 @@ class BlogsController < ApplicationController
     # (blog.id)がblogでよかったりするのがわからない〜
   end
 
+  def destroy
+
+  end
+
 
   private
 
